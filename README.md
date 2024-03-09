@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Gyeongwonjae%20&fontSize=90" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Gyeongwonjae%20&fontSize=90&width=auto"/>
 <p marginbottom="5px" align="center">☁Tech Stack☁️</p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
