@@ -54,14 +54,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-  }
-}
-=======
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://eunyyi.github.io/경원재"
+  "homepage": "https://eunyyi.github.io/gyeongwonjae/"
 }
->>>>>>> bf8dde6 (Trigger rebuild)
