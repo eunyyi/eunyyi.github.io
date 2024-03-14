@@ -30,7 +30,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject"
+=======
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+>>>>>>> bf8dde6 (Trigger rebuild)
   },
   "eslintConfig": {
     "extends": [
@@ -49,5 +54,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   }
 }
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://eunyyi.github.io/경원재"
+}
+>>>>>>> bf8dde6 (Trigger rebuild)
