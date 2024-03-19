@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gyeongwonjae/static/css/main.ee064bfe.css",
-    "main.js": "/gyeongwonjae/static/js/main.5cbd5388.js",
+    "main.js": "/gyeongwonjae/static/js/main.017a4b5e.js",
     "static/media/royal5.jpg": "/gyeongwonjae/static/media/royal5.277b15ac1b412913a642.jpg",
     "static/media/royal3.jpg": "/gyeongwonjae/static/media/royal3.5bd26269aeb3470aaa18.jpg",
     "static/media/sweet3.jpg": "/gyeongwonjae/static/media/sweet3.3ed29b16294f3bd51fd3.jpg",
@@ -41,10 +41,10 @@
     "static/media/down.svg": "/gyeongwonjae/static/media/down.70e8aae0516d26e83df1b437fa390431.svg",
     "index.html": "/gyeongwonjae/index.html",
     "main.ee064bfe.css.map": "/gyeongwonjae/static/css/main.ee064bfe.css.map",
-    "main.5cbd5388.js.map": "/gyeongwonjae/static/js/main.5cbd5388.js.map"
+    "main.017a4b5e.js.map": "/gyeongwonjae/static/js/main.017a4b5e.js.map"
   },
   "entrypoints": [
     "static/css/main.ee064bfe.css",
-    "static/js/main.5cbd5388.js"
+    "static/js/main.017a4b5e.js"
   ]
 }
